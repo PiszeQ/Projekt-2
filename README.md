@@ -1,4 +1,8 @@
 # Projekt-2
-Terminarz z zapisem oraz edycją teminów imprez i dodatkowych informacji.
-Praca plików z akrusza Excel
-Infomacje odnośnie lokalizacji pobierane z internetu(odnośnik)
+Terminarz.  
+  
+Wgląd na kalędarz na którym widać wolne teminy.
+Możliwość rezerwacji domku na dany termin.  
+Anulowanie rezerwacji.  
+Praca plików baz danych, przechoywane infomacji o szczegółach rezerwacji(termin,osowa wynajmująca,kontakt).  
+Infomacje odnośnie lokalizacji pobierane z internetu(odnośnik) oraz kontankt.  
